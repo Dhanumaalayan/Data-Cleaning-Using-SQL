@@ -1,6 +1,6 @@
 
 
--- Converting the  String Sale_date to Date adding to the table
+-- Converting the String Sale_date to a Date and adding it to the table
 
 Alter table nashville_data 
 add column date date;
