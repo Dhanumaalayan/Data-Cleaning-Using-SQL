@@ -90,7 +90,7 @@ where unique_id in
               (select unique_id from 
               (select *,
               row_number() over(partition by  parcel_id,property_address_city,property_address_street,date,legal_ref
-								order by parcel_id asc) as rn 
+			        order by parcel_id asc) as rn 
 			   from nashville_data) x
 			   where x.rn >1 
 			   order by unique_id);
