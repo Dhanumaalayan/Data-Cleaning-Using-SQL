@@ -9,4 +9,6 @@ by completing the following task
 4. Checking the duplicate data.
 5. Deleting the duplicate data.
 
+## Tools
 
+MySQL Workbench
