@@ -11,4 +11,4 @@ by completing the following task
 
 ## Tools
 
-MySQL Workbench
+1. MySQL Workbench
