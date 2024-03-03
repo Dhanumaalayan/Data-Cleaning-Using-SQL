@@ -1,7 +1,7 @@
 # Nashville_Housing Project
 
 In this project, I will perform data cleaning on a dataset using MySQL
-by completing the following task
+by completing the following task.
 
 1. Standardize the date format.
 2. Handling missing values.
